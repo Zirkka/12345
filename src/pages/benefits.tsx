@@ -1,12 +1,12 @@
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import costSavingGif from "@assets/Cost saving red_1763048099672.gif";
-import realTimeMonitoringGif from "@assets/Real time monitoring red_1763048099672.gif";
-import instantAlertsGif from "@assets/Instant Alerts red_1763048099671.gif";
-import maximumProtectionGif from "@assets/Maximum protection red_1763048099671.gif";
-import easyInstallationGif from "@assets/Easy installationred_1763048099670.gif";
-import detailedAnalyticsGif from "@assets/Detailed analytics red_1763048099673.gif";
+import costSavingGif from "@/assets/cost-saving.gif";
+import realTimeMonitoringGif from "@/assets/real-time-monitoring.gif";
+import instantAlertsGif from "@/assets/instant-alerts.gif";
+import maximumProtectionGif from "@/assets/maximum-protection.gif";
+import easyInstallationGif from "@/assets/easy-installation.gif";
+import detailedAnalyticsGif from "@/assets/detailed-analytics.gif";
 
 export default function BenefitsPage() {
   const benefits = [
